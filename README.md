@@ -199,7 +199,7 @@ Resumo da licença MIT:
 👨‍🎓 Desenvolvido por
 Grupo de alunos - Programação Web (2º ano - "B " Técnico em Informática)
 
-Integrante	       Função principal
+Integrante	     -  Função principal
 
 Carlos Henrrique - Estrutura base, CSS, README
 
