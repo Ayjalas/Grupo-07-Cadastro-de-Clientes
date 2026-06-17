@@ -61,28 +61,44 @@ Nenhum! O projeto roda **100% no navegador**. Você só precisa de um editor de 
 1. **Baixar o projeto**
    - Opção A: Clone o repositório  
      ```bash
-     git clone https://github.com/seu-usuario/projeto-clientes.git
+     git clone https://github.com/Ayjalas/Grupo-07-Cadastro-de-Clientes.git
 
 Opção B: Baixe o ZIP diretamente do GitHub e extraia.
 
-Estrutura de pastas (mantenha como está)
+Estrutura de arquivos: 
 
 projeto-clientes/
-├── index.html
-├── login.html
-├── cadastroUsuario.html
-├── cadastro.html
-├── listar.html
-├── editar.html
-├── css/
-│   └── style.css
-├── js/
-│   ├── auth.js
-│   ├── menu.js
-│   ├── clientes.js
-│   └── utils.js
-├── assets/
-│   └── imagens/ (para prints, opcional)
+
+├── index.html 
+
+├── login.html 
+
+├── cadastroUsuario.html 
+
+├── cadastro.html 
+
+├── listar.html 
+
+├── editar.html 
+
+├── css/ 
+
+│   └── style.css 
+
+├── js/ 
+
+│   ├── auth.js 
+
+│   ├── menu.js 
+
+│   ├── clientes.js 
+
+│   └── utils.js 
+
+├── assets/ 
+
+│   └── imagens/ (para prints, opcional) 
+
 └── README.md
 
 Executar o projeto
@@ -149,11 +165,11 @@ Base para evolução para sistema com backend (futuro).
 
 Prints da interface: 
 
-![alt text](<img/Tela (1).png>)
-![alt text](<img/Tela (2).png>)
-![alt text](<img/Tela (3).png>)
-![alt text](<img/Tela (4).png>)
-![alt text](<img/Tela (5).png>)
+![alt text](<Tela (1).png>)
+![alt text](<Tela (2).png>)
+![alt text](<Tela (3).png>)
+![alt text](<Tela (4).png>)
+![alt text](<Tela (5).png>)
 
 Tela Home
 
@@ -181,14 +197,20 @@ Resumo da licença MIT:
 ❌ Exige a manutenção da atribuição de copyright.
 
 👨‍🎓 Desenvolvido por
-Grupo de alunos - Programação Web (2º ano Técnico em Informática)
+Grupo de alunos - Programação Web (2º ano - "B " Técnico em Informática)
 
-Integrante	        Função principal
-Carlos Henrrique	Estrutura base, CSS, README
-Jose Kayke	        Autenticação e sessão
-Emanuel Carlos	    Cadastro de clientes (CREATE)
-Tiago Pedrosa   	Listagem, busca, exclusão (READ/DELETE)
-Ayjalas Pereira 	Edição e menu dinâmico (UPDATE)
+Integrante	       Função principal
+
+Carlos Henrrique - Estrutura base, CSS, README
+
+Jose Kayke	     - Autenticação e sessão
+
+Emanuel Carlos	  - Cadastro de clientes (CREATE)
+
+Tiago Pedrosa    - Listagem, busca, exclusão (READ/DELETE)
+
+Ayjalas Pereira  - Edição e menu dinâmico (UPDATE)
+
 Professor orientador: Jefferson Macedo
 
 Data de conclusão: Junho/2026
